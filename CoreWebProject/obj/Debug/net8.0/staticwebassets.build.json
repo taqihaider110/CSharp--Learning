@@ -1,11 +1,12 @@
 {
   "Version": 1,
-  "Hash": "zosRj3x5By7hWU/q+AGkgAgt6sHdTVjkJ615rnkisUc=",
+  "Hash": "nDJzHAE26hpVfB8ea9m3xEStPm/CiZywDp/bIRR0j8M=",
   "Source": "CoreWebProject",
   "BasePath": "_content/CoreWebProject",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [],
-  "Assets": []
+  "Assets": [],
+  "Endpoints": []
 }
