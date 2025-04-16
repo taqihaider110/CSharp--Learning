@@ -1,3 +1,0 @@
-FOR VS CODE:
-1- dotnet build
-2- dotnet run
